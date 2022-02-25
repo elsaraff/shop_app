@@ -17,6 +17,4 @@ A Shop Flutter project.
 
 ![alt text](screenshots/7.jpg )
 
-![alt text](screenshots/8.jpg )
-
 ![alt text](screenshots/9.jpg )
